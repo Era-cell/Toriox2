@@ -1,0 +1,35 @@
+.content{
+    height:506px;
+}
+.left-content{
+    padding: 120px 80px;
+    display: flex;
+    flex-direction: column;
+}
+.start-now-button{
+    height:48px;
+    width: 250px;
+    background-color: #017e84;
+    color:white;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    line-height: 3;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+.meet-expert{
+    color:#017e84;
+    margin-left:75px;
+}
+
+.meet-expert:hover{
+    color:black;
+}
+
+.why{
+    color:#017e84;
+}
+.why:hover{
+    color:black;
+}
